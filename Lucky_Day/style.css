@@ -1,0 +1,17 @@
+#number {
+  border: solid 2px;
+  border-radius: 4px;
+}
+
+#btn {
+  border: solid 1px;
+  border-radius: 4px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: medium;
+  font-weight: 400;
+}
+
+#output {
+  font-size: 24px;
+  font-weight: 600;
+}
